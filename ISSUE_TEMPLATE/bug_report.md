@@ -32,14 +32,14 @@ Tambahkan informasi lain tentang masalah ini di sini.
 
 
 **Acceptance Criteria**
-<!-Gunakan bagian ini untuk merinci syarat spesifik agar fitur ini dianggap berfungsi oleh user.->
+<!-- Gunakan bagian ini untuk merinci syarat spesifik agar fitur ini dianggap berfungsi oleh user. -->
 - Skenario 1: [Contoh: User berhasil login dengan email dan password yang benar]
 - Skenario 2: [Contoh: Muncul pesan error jika password salah]
 - UI/UX: Tampilan harus sesuai dengan design mockup di Figma.
 - Validasi: Field [Nama Field] tidak boleh kosong.
 
 **Definition of Done:**
-<!-Gunakan checklist ini sebagai standar kualitas akhir sebelum tugas dianggap benar-benar "Selesai".->
+<!-- Gunakan checklist ini sebagai standar kualitas akhir sebelum tugas dianggap benar-benar "Selesai" -->
 - Code Review: Kode sudah direview oleh rekan tim/Lead.
 - Testing: Unit test sudah dibuat dan semua passed (Lulus).
 - Environment: Fitur sudah dideploy ke lingkungan Staging/QA.
